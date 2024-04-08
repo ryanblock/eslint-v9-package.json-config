@@ -1,1 +1,1 @@
-Run: `npm run lint`
+Run: `npm i && npm run lint`
