@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "lint": "eslint . --fix"
+  },
+  "devDependencies": {
+    "@architect/eslint-config": "^3.0.0-RC.0",
+    "eslint": "^9.0.0"
+  },
+  "eslintConfig": {
+    "extends": "@architect/eslint-config"
+  }
+}
